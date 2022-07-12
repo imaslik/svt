@@ -1,0 +1,11 @@
+*.pyc
+*.pyo
+*.swp
+*.swn
+*.swm
+*.swl
+tags
+*.swo
+*.hex
+.idea
+scripts/*.csv*
